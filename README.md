@@ -2,6 +2,8 @@
 
 ¡Bienvenido a **Amigo Secreto**! Este proyecto es una sencilla aplicación web que permite agregar nombres a una lista y seleccionar uno al azar, ideal para juegos de amigo secreto o sorteos rápidos. 🎉
 
+![Captura de pantalla de Amigo Secreto](assets/screenshot.png)
+
 ## 🚀 Funcionalidades
 - Agregar nombres a una lista dinámica.
 - Visualizar los nombres ingresados en tiempo real.
